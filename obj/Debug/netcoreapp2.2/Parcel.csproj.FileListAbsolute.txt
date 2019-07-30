@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/ParcelsFolder/Parcel/obj/Debug/netcoreapp2.2/Parcel.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ParcelsFolder/Parcel/obj/Debug/netcoreapp2.2/Parcel.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ParcelsFolder/Parcel/obj/Debug/netcoreapp2.2/Parcel.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/ParcelsFolder/Parcel/obj/Debug/netcoreapp2.2/Parcel.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/ParcelsFolder/Parcel/obj/Debug/netcoreapp2.2/Parcel.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ParcelsFolder/Parcel/obj/Debug/netcoreapp2.2/Parcel.AssemblyInfo.cs
